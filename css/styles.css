@@ -1,0 +1,25 @@
+.hidden {
+  display: none;
+}
+
+.completedButton {
+  float: right;
+}
+
+
+#submitButton {
+  margin-top: 25px;
+  width: 250px;
+}
+
+#completedTasks, #openTasks{
+  float: right;
+}
+
+h4 {
+  text-align: center;
+}
+
+#helpBlock {
+  color: red;
+}
